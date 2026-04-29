@@ -459,15 +459,6 @@ Current status after the latest CLI-first refactor:
 
 - `12 passed`
 
-## Docs
-
-- [docs/accessimed-workflow.md](/Users/spartan/Documents/GitHub/AccessiMed/docs/accessimed-workflow.md)
-- [docs/technical-architecture.md](/Users/spartan/Documents/GitHub/AccessiMed/docs/technical-architecture.md)
-- [docs/complete-demo-guide.md](/Users/spartan/Documents/GitHub/AccessiMed/docs/complete-demo-guide.md)
-- [docs/testing-summary.md](/Users/spartan/Documents/GitHub/AccessiMed/docs/testing-summary.md)
-- [docs/workflow-diagram-prompt.md](/Users/spartan/Documents/GitHub/AccessiMed/docs/workflow-diagram-prompt.md)
-- [docs/system-architecture-diagram-prompt.md](/Users/spartan/Documents/GitHub/AccessiMed/docs/system-architecture-diagram-prompt.md)
-
 ## Near-term roadmap
 
 - richer deterministic fix coverage beyond common HTML issues
