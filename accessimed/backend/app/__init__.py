@@ -1,0 +1,1 @@
+"""AccessiMed backend package."""
