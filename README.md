@@ -3,6 +3,7 @@
 <img width="1680" height="936" alt="AccessiMed Logo - 1" src="https://github.com/user-attachments/assets/47bb004d-fc5f-4f70-9e1f-94a5cbcf5082" />
 
 
+
 AccessiMed is an open-source accessibility scanner and remediation CLI for website teams. It is designed for developers who want a local, reviewable workflow for WCAG issues, with an optional companion web app for live URL scans, dashboards, and PDF reporting.
 
 The CLI is the primary product surface now:
